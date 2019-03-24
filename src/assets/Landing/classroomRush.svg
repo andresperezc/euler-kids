@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65.2 74.39">
+  <defs>
+    <linearGradient id="a" x1="161.32" x2="237.58" y1="47.82" y2="47.82" gradientTransform="matrix(.79443 0 0 .79443 -138.95 27.95)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#303f9f"/>
+      <stop offset="1" stop-color="#9c27b0"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#a)" d="M50 65.94a30.4 30.4 0 0 1-30.2 30.4 30.4 30.4 0 0 1-30.6-30.01 30.4 30.4 0 0 1 29.82-30.78A30.4 30.4 0 0 1 50 65.17" transform="scale(-.86508) rotate(60 74.39 -31.84)"/>
+  <g transform="matrix(.9215 0 0 .9215 -116.8 -101.25)">
+    <rect width="23.94" height="4.87" x="140.96" y="125.38" fill="#ffdc73" ry="2.43"/>
+    <rect width="16.13" height="3.28" x="144.52" y="126.18" fill="#ff9e3b" ry="1.64"/>
+    <rect width="10.48" height="1.51" x="147.7" y="127.06" fill="#e91e63" ry=".76"/>
+    <rect width="29.42" height="4.87" x="126.75" y="133.55" fill="#ffdc73" ry="2.43"/>
+    <rect width="19.81" height="3.28" x="131.12" y="134.34" fill="#ff9e3b" ry="1.64"/>
+    <rect width="12.88" height="1.51" x="135.02" y="135.22" fill="#e91e63" ry=".76"/>
+    <rect width="15.64" height="4.87" x="143.97" y="141.63" fill="#ffdc73" rx="2.47" ry="2.43"/>
+    <rect width="10.98" height="3.19" x="146.29" y="142.42" fill="#ff9e3b" rx="1.94" ry="1.59"/>
+    <rect width="6.85" height="1.51" x="148.36" y="143.3" fill="#e91e63" rx=".88" ry=".76"/>
+    <rect width="23.94" height="4.87" x="131.17" y="149.34" fill="#ffc107" ry="2.43"/>
+    <rect width="16.13" height="3.28" x="134.72" y="150.14" fill="#f57c00" ry="1.64"/>
+    <rect width="10.48" height="1.51" x="137.9" y="151.02" fill="#e91e63" ry=".76"/>
+    <rect width="23.94" height="4.87" x="131.17" y="149.34" fill="#ffdc73" ry="2.43"/>
+    <rect width="16.13" height="3.28" x="134.72" y="150.14" fill="#ff9e3b" ry="1.64"/>
+    <rect width="10.48" height="1.51" x="137.9" y="151.02" fill="#e91e63" ry=".76"/>
+    <rect width="7.61" height="4.87" x="156.9" y="149.34" fill="#ffdc73" rx="2.21" ry="2.43"/>
+    <rect width="4.68" height="3.28" x="158.36" y="150.14" fill="#ff9e3b" rx="1.59" ry="1.64"/>
+    <rect width="2.54" height="1.51" x="159.44" y="151.02" fill="#e91e63" rx=".88" ry=".66"/>
+  </g>
+  <path fill="#2196f3" d="M61.53 37.23q-4.86 4.2-11.73 4.2t-11.73-4.2q-4.87-4.2-4.87-10.15t4.87-10.16q4.86-4.2 11.73-4.2t11.73 4.2q2.44 2.11 3.67 4.68l-9.84 2.48q-.5-1.31-1.73-2.38-2.09-1.8-5.02-1.8t-5.03 1.8q-2.09 1.8-2.09 4.35 0 2.54 2.1 4.35 2.09 1.8 5.02 1.8t5.02-1.8q1.13-.99 1.67-2.22l9.88 4.37q-1.2 2.57-3.65 4.68z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+  <path fill="none" stroke="#8cc9f9" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.441975" d="M49.3 15.58s6.16-.86 10.32 4.3"/>
+  <path fill="#0c84e4" d="M49.8 12.72c-4.58 0-8.5 1.4-11.73 4.2-3.25 2.8-4.87 6.19-4.87 10.16 0 3.96 1.62 7.35 4.87 10.15 3.24 2.8 7.15 4.2 11.73 4.2.38 0 .77-.01 1.14-.03a17.1 17.1 0 0 1-10.59-4.17c-3.24-2.8-4.86-6.19-4.86-10.15 0-3.97 1.62-7.35 4.86-10.16a17.1 17.1 0 0 1 10.6-4.17c-.38-.02-.77-.03-1.15-.03z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+  <g fill="#2196f3" stroke-width=".26">
+    <g aria-label="classroom" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">
+      <path d="M9.55 62.35q-1.06.92-2.56.92t-2.56-.92q-1.06-.91-1.06-2.21 0-1.3 1.06-2.21Q5.5 57 7 57t2.56.92q.53.46.8 1.02l-2.15.54q-.1-.29-.37-.52-.46-.4-1.1-.4-.64 0-1.1.4-.45.4-.45.95 0 .55.46.94.45.4 1.1.4.63 0 1.09-.4.24-.21.36-.48l2.15.95q-.26.56-.8 1.02zM10.89 56.92l2.2.12-.72 4.44 2.24-.35-.5 2.38-3.53-.24zM16.91 62.37l-.31.9-1.76-1.07 2.2-5.2 1.69-.1 2.64 5.37-2.09 1-.46-1.26zm1.53-1.95l-.5-1.62-.6 1.79zM22.53 60.8q-1.61-.23-1.43-2.01t4.15-2.1l.38 2.01q-1.96-.04-2.1.47-.15.5 1.5.58 1.64.08 1.6 2-.03 1.93-4.33 2.06l-.79-2.11q2.2.24 2.42-.22.22-.46-1.4-.68z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+      <path d="M28.04 60.8q-1.62-.23-1.43-2.01.19-1.78 4.15-2.1l.38 2.01q-1.97-.04-2.11.47-.14.5 1.5.58 1.65.08 1.61 2-.03 1.93-4.33 2.06L27 61.7q2.2.24 2.43-.22.22-.46-1.4-.68zM34.59 58.48l.06 1.21q2.23 0 2.23-.45 0-.44-2.3-.76zm.3 4.43l-2.5.34.52-6.67q5.76.43 5.95 2.3.2 1.88-1.98 2.6l1.8.97-1.84 1.62-2.1-2.59zM42.92 63.27q-1.5 0-2.58-.92-1.06-.91-1.06-2.21 0-1.3 1.06-2.21 1.07-.92 2.58-.92t2.57.92q1.07.91 1.07 2.2 0 1.3-1.07 2.22-1.06.92-2.57.92zm-.25-1.96q.65 0 1.1-.39.46-.4.46-.95 0-.55-.46-.94-.45-.4-1.1-.4-.65 0-1.1.4-.46.39-.46.94 0 .56.45.95.46.4 1.11.4zM50.43 63.27q-1.5 0-2.58-.92-1.06-.91-1.06-2.21 0-1.3 1.06-2.21 1.07-.92 2.58-.92t2.57.92q1.07.91 1.07 2.2 0 1.3-1.07 2.22-1.06.92-2.57.92zm-.25-1.96q.65 0 1.1-.39.46-.4.46-.95 0-.55-.46-.94-.45-.4-1.1-.4-.64 0-1.1.4-.46.39-.46.94 0 .56.45.95.47.4 1.11.4zM61.45 57l.38 5.9-2.28.2-.12-3.02-.46 2.07-2.05.3-.83-2.15.3 2.54-2.09.43.29-6.26 2.05-.27 1.13 3.57 1.38-3.47z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+    </g>
+    <g aria-label="rush" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">
+      <path d="M21.69 68.8l.06 1.21q2.23 0 2.23-.44 0-.45-2.3-.76zm.3 4.43l-2.5.35.52-6.68q5.76.43 5.96 2.3.2 1.88-1.99 2.6l1.8.97-1.84 1.62-2.1-2.59z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+      <path d="M26.85 67.64l2.38.47q-1.2 3.65.34 3.7 1.81-.02 1.05-3.79l2.18-.69q1 6.2-3.23 6.26-4.28-.04-2.72-5.95z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+      <path d="M34.83 71.12q-1.62-.23-1.43-2.01.19-1.78 4.15-2.1l.37 2.02q-1.96-.05-2.1.46-.15.51 1.5.59 1.64.07 1.6 2-.03 1.93-4.32 2.06l-.8-2.12q2.2.24 2.42-.22.22-.46-1.4-.68zM41.2 71.7l.15 1.51-1.71.3-.78-4.95 1.9-.81.22 2.14 1.72-.2.02-1.95 2.99.3-1.14 5.5-1.92-.57.02-1.43z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+    </g>
+  </g>
+</svg>

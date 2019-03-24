@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.31 87.31">
+  <path fill="none" stroke="#fbc02d" stroke-linecap="round" stroke-width="4.93" d="M21.14 11.93H3.06s-.98 28.26 24 31.55M66.18 11.93h18.07s.99 28.26-23.99 31.55"/>
+  <g transform="matrix(1.10366 0 0 1.10366 -637 980.07)">
+    <g stroke-width="3.26">
+      <rect width="14.13" height="16.1" x="609.66" y="-837.85" fill="#fbc02d" ry="0"/>
+      <rect width="35.16" height="15.45" x="599.15" y="-825.36" fill="#ffeb3b" ry="7.72"/>
+      <path fill="#f2ae05" d="M609.66-837.02v5.4c2.1.75 4.38 1.16 6.9 1.16 0 0 3.1.47 7.23-.94v-5.4c-4.13 1.42-7.23.95-7.23.95-2.52 0-4.8-.41-6.9-1.17z"/>
+      <path fill="#ffeb3b" d="M616.57-833.9s28.26 4.26 28.26-51.93h-56.2s-.33 51.92 27.94 51.92z"/>
+    </g>
+    <path fill="#f5dc00" d="M588.73-882.3c.02.62.06 1.32.1 2.06h55.9l.05-2.05z"/>
+    <g stroke-width="2.55" transform="matrix(1.27616 0 0 1.27616 95.57 -134.28)">
+      <circle cx="408.38" cy="-570.09" r="11.2" fill="#fbc02d"/>
+      <path fill="#fab508" d="M419.56-570.72a11.2 11.2 0 0 1-11.18 10.76 11.2 11.2 0 0 1-11.18-10.57 11.2 11.2 0 0 0-.02.44 11.2 11.2 0 0 0 11.2 11.2 11.2 11.2 0 0 0 11.2-11.2 11.2 11.2 0 0 0-.02-.63z"/>
+    </g>
+    <path fill="#fff" stroke="#a80" stroke-width=".3318016" d="M622.65-851.95l-9.02-.38 1.52-12.47-3.12 1.26-1.22-5.2 9.48-2.92z" aria-label="1" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+    <path fill="#f5dc00" d="M599.42-818.98a7.77 7.77 0 0 0-.25 2.52h35.12a7.9 7.9 0 0 0-.25-2.52z"/>
+    <rect width="44.69" height="7.89" x="594.38" y="-817.15" fill="#fbc02d" ry="3.94"/>
+    <path fill="none" stroke="#fffce3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.69" d="M640.66-876.58s.8 11.77-2.86 20.34"/>
+    <g>
+      <rect width="11.31" height="1.71" x="625.11" y="-815.33" fill="#fef0cd" ry=".8"/>
+      <path fill="#f5dc00" d="M588.63-885.83s-.33 51.92 27.93 51.92c0 0 1.12.16 2.9 0-27.84-.51-27.51-51.92-27.51-51.92z"/>
+      <rect width="64.68" height="5.37" x="584.39" y="-887.66" fill="#fbc02d" ry="1.7"/>
+      <rect width="13.26" height="1.6" x="632.66" y="-886.29" fill="#fef0cd" ry=".8"/>
+    </g>
+  </g>
+</svg>

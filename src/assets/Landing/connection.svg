@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83.06 65.98">
+  <defs>
+    <linearGradient id="a" x1="161.32" x2="237.58" y1="47.82" y2="47.82" gradientTransform="matrix(.79443 0 0 .79443 -182.34 136.93)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00c853"/>
+      <stop offset="1" stop-color="#2196f3"/>
+    </linearGradient>
+  </defs>
+  <text x="97.92" y="-217.78" stroke-width=".26" font-family="sans-serif" font-size="10.58" letter-spacing="0" style="line-height:1.25" transform="translate(-123.5 98.01)" word-spacing="0"/>
+  <path fill="url(#a)" d="M6.6 174.92a30.4 30.4 0 0 1-30.2 30.4 30.4 30.4 0 0 1-30.58-30.01 30.4 30.4 0 0 1 29.81-30.78A30.4 30.4 0 0 1 6.6 174.15" transform="rotate(-120 -33.46 84.66)"/>
+  <g transform="matrix(.7202 0 0 .7202 -15.5 194.79)">
+    <g transform="matrix(-.9998 0 0 .9998 226.7 14.25)">
+      <rect width="3.38" height="9.72" x="101.35" y="-217.78" fill="#ffc096" ry="1.69"/>
+      <rect width="3.38" height="9.72" x="104.15" y="-219.91" fill="#fca" ry="1.69"/>
+    </g>
+    <g transform="translate(-13.5 14.25) scale(.9998)">
+      <rect width="3.38" height="9.72" x="101.35" y="-217.78" fill="#ffc096" ry="1.69"/>
+      <rect width="3.38" height="9.72" x="104.15" y="-219.91" fill="#fca" ry="1.69"/>
+    </g>
+    <rect width="27.73" height="35.02" x="93.27" y="-220.78" fill="#fff" stroke="#b3b3b3" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2" ry="2.22" transform="rotate(-.16)"/>
+    <rect width="24.63" height="31.11" x="94.82" y="-219.22" fill="#e6e6e6" ry="1.97" transform="rotate(-.16)"/>
+    <path fill="#fff" stroke="#b3b3b3" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2" d="M107.38-187.25a.78.78 0 0 1-.77.79.78.78 0 0 1-.8-.78.78.78 0 0 1 .77-.79.78.78 0 0 1 .8.76"/>
+    <g transform="matrix(.84615 0 0 .84615 14.25 -24.6)">
+      <rect width="24.43" height="12.73" x="96.98" y="-218.35" fill="#fff" stroke="#2196f3" stroke-linecap="round" stroke-linejoin="round" stroke-width=".79" ry="1.96"/>
+      <path fill="#2196f3" d="M110.65-212.35q1.87.25 1.65 2.31-.22 2.06-4.8 2.44l-.43-2.34q2.27.05 2.43-.54.17-.59-1.73-.68-1.9-.08-1.82-4.54l6.5-.67-.62 2.97-2.72-.2q-.33.98 1.54 1.25z" aria-label="5" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+    </g>
+    <g fill="#fff" opacity=".67">
+      <path d="M106.55-219.53l-12.33 12.4.02 6.89 19.2-19.3zM102.8-219.52l-8.59 8.64.01 2.6 11.18-11.24z" opacity=".6"/>
+    </g>
+    <g fill="#fca" transform="translate(-14.27 13.41) scale(.9998)">
+      <circle cx="105.14" cy="-207.86" r="5.35"/>
+      <rect width="3.85" height="9.67" x="-126.77" y="-203.93" ry="1.92" transform="rotate(60)"/>
+      <rect width="7.95" height="16.42" x="-76.55" y="-220.99" ry="3.98" transform="rotate(45)"/>
+    </g>
+    <g fill="#fca">
+      <circle cx="-121.46" cy="-194.4" r="5.35" transform="scale(-1 1)"/>
+      <rect width="3.85" height="9.67" x="-228.42" y="-.96" ry="1.92" transform="scale(-1 1) rotate(60)"/>
+      <rect width="7.95" height="16.42" x="-227.27" y="-51.24" ry="3.98" transform="scale(-1 1) rotate(45)"/>
+    </g>
+    <rect width="10.33" height="11.64" x="218.08" y="-45.51" fill="#fc0" ry="1.69" transform="rotate(-45)"/>
+    <rect width="1.33" height="4.61" x="226.05" y="-40.83" fill="#fff4c9" ry=".67" transform="rotate(-45)"/>
+    <path fill="#f60" stroke="#00c853" stroke-linecap="round" stroke-linejoin="round" stroke-width=".79" d="M124.75-184.37l6.52-6.67"/>
+    <rect width="10.33" height="11.64" x="68.04" y="-195.55" fill="#fc0" ry="1.69" transform="scale(-1 1) rotate(-45)"/>
+    <rect width="1.33" height="4.61" x="76.01" y="-190.86" fill="#fff4c9" ry=".67" transform="scale(-1 1) rotate(-45)"/>
+    <path fill="#f60" stroke="#00c853" stroke-linecap="round" stroke-linejoin="round" stroke-width=".79" d="M87.43-184.37l-6.52-6.67"/>
+  </g>
+  <g transform="translate(34.88 147.54) scale(.63046)">
+    <g transform="matrix(-.9998 0 0 .9998 153.92 14.25)">
+      <rect width="3.38" height="9.72" x="101.35" y="-217.78" fill="#ffc096" ry="1.69"/>
+      <rect width="3.38" height="9.72" x="104.15" y="-219.91" fill="#fca" ry="1.69"/>
+    </g>
+    <g transform="translate(-86.26 14.25) scale(.9998)">
+      <rect width="3.38" height="9.72" x="101.35" y="-217.78" fill="#ffc096" ry="1.69"/>
+      <rect width="3.38" height="9.72" x="104.15" y="-219.91" fill="#fca" ry="1.69"/>
+    </g>
+    <rect width="27.73" height="35.02" x="20.5" y="-220.98" fill="#fff" stroke="#b3b3b3" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2" ry="2.22" transform="rotate(-.16)"/>
+    <rect width="24.63" height="31.11" x="22.05" y="-219.43" fill="#e6e6e6" ry="1.97" transform="rotate(-.16)"/>
+    <path fill="#fff" stroke="#b3b3b3" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2" d="M34.61-187.25a.78.78 0 0 1-.77.79.78.78 0 0 1-.8-.78.78.78 0 0 1 .77-.79.78.78 0 0 1 .8.76"/>
+    <g transform="matrix(.84615 0 0 .84615 -58.52 -24.6)">
+      <rect width="24.43" height="12.73" x="96.98" y="-218.35" fill="#fff" stroke="#2196f3" stroke-linecap="round" stroke-linejoin="round" stroke-width=".79" ry="1.96"/>
+      <path fill="#2196f3" d="M110.65-212.35q1.87.25 1.65 2.31-.22 2.06-4.8 2.44l-.43-2.34q2.27.05 2.43-.54.17-.59-1.73-.68-1.9-.08-1.82-4.54l6.5-.67-.62 2.97-2.72-.2q-.33.98 1.54 1.25z" aria-label="5" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+    </g>
+    <g fill="#fff" opacity=".67">
+      <path d="M33.78-219.53l-12.33 12.4.02 6.89 19.2-19.3zM30.04-219.52l-8.6 8.64.01 2.6 11.18-11.24z" opacity=".6"/>
+    </g>
+    <g fill="#fca" transform="translate(-87.04 13.41) scale(.9998)">
+      <circle cx="105.14" cy="-207.86" r="5.35"/>
+      <rect width="3.85" height="9.67" x="-126.77" y="-203.93" ry="1.92" transform="rotate(60)"/>
+      <rect width="7.95" height="16.42" x="-76.55" y="-220.99" ry="3.98" transform="rotate(45)"/>
+    </g>
+    <g fill="#fca">
+      <circle cx="-48.69" cy="-194.4" r="5.35" transform="scale(-1 1)"/>
+      <rect width="3.85" height="9.67" x="-192.04" y="-63.98" ry="1.92" transform="scale(-1 1) rotate(60)"/>
+      <rect width="7.95" height="16.42" x="-175.81" y="-102.7" ry="3.98" transform="scale(-1 1) rotate(45)"/>
+    </g>
+    <rect width="10.33" height="11.64" x="166.62" y="-96.97" fill="#e91e63" ry="1.69" transform="rotate(-45)"/>
+    <rect width="1.33" height="4.61" x="174.59" y="-92.28" fill="#facada" ry=".67" transform="rotate(-45)"/>
+    <path fill="#fc0" stroke="#fc0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".79" d="M51.98-184.37l6.52-6.67"/>
+    <rect width="10.33" height="11.64" x="119.5" y="-144.09" fill="#e91e63" ry="1.69" transform="scale(-1 1) rotate(-45)"/>
+    <rect width="1.33" height="4.61" x="127.47" y="-139.4" fill="#facada" ry=".67" transform="scale(-1 1) rotate(-45)"/>
+    <path fill="#fc0" stroke="#fc0" stroke-linecap="round" stroke-linejoin="round" stroke-width=".79" d="M14.66-184.37l-6.52-6.67"/>
+  </g>
+  <g transform="matrix(.46894 0 0 .46894 -20.77 80.35)">
+    <g transform="matrix(-.9998 0 0 .9998 226.7 64.11)">
+      <rect width="3.38" height="9.72" x="101.35" y="-217.78" fill="#ffc096" ry="1.69"/>
+      <rect width="3.38" height="9.72" x="104.15" y="-219.91" fill="#fca" ry="1.69"/>
+    </g>
+    <g transform="translate(-13.5 64.11) scale(.9998)">
+      <rect width="3.38" height="9.72" x="101.35" y="-217.78" fill="#ffc096" ry="1.69"/>
+      <rect width="3.38" height="9.72" x="104.15" y="-219.91" fill="#fca" ry="1.69"/>
+    </g>
+    <rect width="27.73" height="35.02" x="93.13" y="-170.91" fill="#fff" stroke="#b3b3b3" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2" ry="2.22" transform="rotate(-.16)"/>
+    <rect width="24.63" height="31.11" x="94.67" y="-169.36" fill="#e6e6e6" ry="1.97" transform="rotate(-.16)"/>
+    <path fill="#fff" stroke="#b3b3b3" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2" d="M107.38-137.38a.78.78 0 0 1-.77.78.78.78 0 0 1-.8-.77.78.78 0 0 1 .77-.8.78.78 0 0 1 .8.77"/>
+    <g transform="matrix(.84615 0 0 .84615 14.25 25.27)">
+      <rect width="24.43" height="12.73" x="96.98" y="-218.35" fill="#fff" stroke="#2196f3" stroke-linecap="round" stroke-linejoin="round" stroke-width=".79" ry="1.96"/>
+      <path fill="#2196f3" d="M110.65-212.35q1.87.25 1.65 2.31-.22 2.06-4.8 2.44l-.43-2.34q2.27.05 2.43-.54.17-.59-1.73-.68-1.9-.08-1.82-4.54l6.5-.67-.62 2.97-2.72-.2q-.33.98 1.54 1.25z" aria-label="5" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+    </g>
+    <g fill="#fff" opacity=".67">
+      <path d="M106.55-169.66l-12.33 12.4.02 6.88 19.2-19.3zM102.8-169.65l-8.59 8.64.01 2.6 11.18-11.25z" opacity=".6"/>
+    </g>
+    <g fill="#fca" transform="translate(-14.27 63.28) scale(.9998)">
+      <circle cx="105.14" cy="-207.86" r="5.35"/>
+      <rect width="3.85" height="9.67" x="-126.77" y="-203.93" ry="1.92" transform="rotate(60)"/>
+      <rect width="7.95" height="16.42" x="-76.55" y="-220.99" ry="3.98" transform="rotate(45)"/>
+    </g>
+    <g fill="#fca">
+      <circle cx="-121.46" cy="-144.53" r="5.35" transform="scale(-1 1)"/>
+      <rect width="3.85" height="9.67" x="-185.24" y="23.98" ry="1.92" transform="scale(-1 1) rotate(60)"/>
+      <rect width="7.95" height="16.42" x="-192.01" y="-15.98" ry="3.98" transform="scale(-1 1) rotate(45)"/>
+    </g>
+    <rect width="10.33" height="11.64" x="182.82" y="-10.25" fill="#00c853" ry="1.69" transform="rotate(-45)"/>
+    <rect width="1.33" height="4.61" x="190.79" y="-5.57" fill="#c9ffe0" ry=".67" transform="rotate(-45)"/>
+    <path fill="#f60" stroke="#2196f3" stroke-linecap="round" stroke-linejoin="round" stroke-width=".79" d="M124.75-134.5l6.52-6.68"/>
+    <rect width="10.33" height="11.64" x="32.78" y="-160.29" fill="#00c853" ry="1.69" transform="scale(-1 1) rotate(-45)"/>
+    <rect width="1.33" height="4.61" x="40.75" y="-155.6" fill="#c9ffe0" ry=".67" transform="scale(-1 1) rotate(-45)"/>
+    <path fill="#f60" stroke="#2196f3" stroke-linecap="round" stroke-linejoin="round" stroke-width=".79" d="M87.43-134.5l-6.52-6.68"/>
+  </g>
+  <g transform="matrix(.65157 0 0 .65157 -1.66 135.48)">
+    <g transform="matrix(-.9998 0 0 .9998 153.92 64.11)">
+      <rect width="3.38" height="9.72" x="101.35" y="-217.78" fill="#ffc096" ry="1.69"/>
+      <rect width="3.38" height="9.72" x="104.15" y="-219.91" fill="#fca" ry="1.69"/>
+    </g>
+    <g transform="translate(-86.26 64.11) scale(.9998)">
+      <rect width="3.38" height="9.72" x="101.35" y="-217.78" fill="#ffc096" ry="1.69"/>
+      <rect width="3.38" height="9.72" x="104.15" y="-219.91" fill="#fca" ry="1.69"/>
+    </g>
+    <rect width="27.73" height="35.02" x="20.36" y="-171.12" fill="#fff" stroke="#b3b3b3" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2" ry="2.22" transform="rotate(-.16)"/>
+    <rect width="24.63" height="31.11" x="21.91" y="-169.56" fill="#e6e6e6" ry="1.97" transform="rotate(-.16)"/>
+    <path fill="#fff" stroke="#b3b3b3" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2" d="M34.61-137.38a.78.78 0 0 1-.77.78.78.78 0 0 1-.8-.77.78.78 0 0 1 .77-.8.78.78 0 0 1 .8.77"/>
+    <g transform="matrix(.84615 0 0 .84615 -58.52 25.27)">
+      <rect width="24.43" height="12.73" x="96.98" y="-218.35" fill="#fff" stroke="#2196f3" stroke-linecap="round" stroke-linejoin="round" stroke-width=".79" ry="1.96"/>
+      <path fill="#2196f3" d="M110.65-212.35q1.87.25 1.65 2.31-.22 2.06-4.8 2.44l-.43-2.34q2.27.05 2.43-.54.17-.59-1.73-.68-1.9-.08-1.82-4.54l6.5-.67-.62 2.97-2.72-.2q-.33.98 1.54 1.25z" aria-label="5" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+    </g>
+    <g fill="#fff" opacity=".67">
+      <path d="M33.78-169.66l-12.33 12.4.02 6.88 19.2-19.3zM30.04-169.65l-8.6 8.64.01 2.6 11.18-11.25z" opacity=".6"/>
+    </g>
+    <g fill="#fca" transform="translate(-87.04 63.28) scale(.9998)">
+      <circle cx="105.14" cy="-207.86" r="5.35"/>
+      <rect width="3.85" height="9.67" x="-126.77" y="-203.93" ry="1.92" transform="rotate(60)"/>
+      <rect width="7.95" height="16.42" x="-76.55" y="-220.99" ry="3.98" transform="rotate(45)"/>
+    </g>
+    <g fill="#fca">
+      <circle cx="-48.69" cy="-144.53" r="5.35" transform="scale(-1 1)"/>
+      <rect width="3.85" height="9.67" x="-148.85" y="-39.05" ry="1.92" transform="scale(-1 1) rotate(60)"/>
+      <rect width="7.95" height="16.42" x="-140.55" y="-67.44" ry="3.98" transform="scale(-1 1) rotate(45)"/>
+    </g>
+    <rect width="10.33" height="11.64" x="131.36" y="-61.71" fill="#9c27b0" ry="1.69" transform="rotate(-45)"/>
+    <rect width="1.33" height="4.61" x="139.33" y="-57.02" fill="#edcaf3" ry=".67" transform="rotate(-45)"/>
+    <path fill="#fc0" stroke="#f57c00" stroke-linecap="round" stroke-linejoin="round" stroke-width=".79" d="M51.98-134.5l6.52-6.68"/>
+    <rect width="10.33" height="11.64" x="84.24" y="-108.83" fill="#9c27b0" ry="1.69" transform="scale(-1 1) rotate(-45)"/>
+    <rect width="1.33" height="4.61" x="92.21" y="-104.14" fill="#edcaf3" ry=".67" transform="scale(-1 1) rotate(-45)"/>
+    <path fill="#fc0" stroke="#f57c00" stroke-linecap="round" stroke-linejoin="round" stroke-width=".79" d="M14.66-134.5l-6.52-6.68"/>
+  </g>
+</svg>

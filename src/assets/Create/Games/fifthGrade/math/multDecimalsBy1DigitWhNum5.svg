@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270.93 135.47">
+  <g transform="translate(0 -300.11)">
+    <path fill="#fff" stroke="#303f9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.32" d="M216.2 360.7a5.18 5.18 0 0 0-5.14 5.24v8.59h21.6c2.9 0 5.23 2.33 5.23 5.22v36.52h26.8a5.18 5.18 0 0 0 5.15-5.25l-9.92-22.54 9.92-22.54c1.16-2.65-2.3-5.25-5.15-5.25z"/>
+    <path fill="#303f9f" d="M215.78 360.59c-2.15-.1-4.69 3.24-4.69 5.7v8.24h23.78c-.5-.4-1.06-.87-1.68-1.44-3.48-3.15-16.28-12.06-16.28-12.06a1.92 1.92 0 0 0-1.13-.44z"/>
+    <g>
+      <path fill="#fff" stroke="#303f9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.32" d="M6.24 360.7c-2.85 0-6.3 2.59-5.14 5.24L11 388.48 1.1 411.02c0 2.9 2.3 5.25 5.14 5.25h26.72v-36.52c0-2.9 2.33-5.22 5.23-5.22h21.68v-8.6c0-2.9-2.3-5.24-5.15-5.24z"/>
+      <path fill="#303f9f" d="M55.15 360.59c-.4.02-.78.15-1.13.44 0 0-12.8 8.91-16.27 12.06-.63.57-1.19 1.03-1.7 1.44h23.79v-8.23c0-2.47-2.54-5.81-4.69-5.71z"/>
+    </g>
+    <rect width="204.93" height="55.37" x="32.96" y="374.53" fill="#fff" stroke="#303f9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.32" ry="5.23"/>
+  </g>
+  <g fill="#303f9f" stroke-width=".26" font-family="Funhouse" font-size="15.88" font-weight="400" letter-spacing="0" word-spacing="0">
+    <g aria-label="multiply decimals" style="line-height:1.25;-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">
+      <path d="M70.24 80.17l.65 10.22-3.95.34-.21-5.24-.8 3.6-3.55.5-1.44-3.72.52 4.4-3.62.75.5-10.85 3.55-.47 1.97 6.2 2.39-6.02z" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"/>
+      <path d="M72.07 80.71l4.13.8q-2.06 6.34.59 6.41 3.15-.02 1.82-6.56l3.78-1.2q1.74 10.77-5.6 10.86-7.42-.07-4.72-10.3z" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"/>
+      <path d="M83.64 80.01l3.82.2-1.25 7.71 3.89-.6-.86 4.13-6.13-.43z" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"/>
+      <path d="M94.3 83.47l.39 6.6-4.2 1.1.72-7.9-3.17-.27.24-2.87 9.1-.54.33 4.24zM101.71 80.23l.79 10.46-4.39.83.2-11.02zM107.07 87.9l.63 2.31-4.04.81-.77-10.38q10.32-1.66 10.84 3.4 0 3.88-6.66 3.86zm-1.06-4.6l.44 1.52q4.18 0 3.93-1.1-.24-1.1-4.37-.41zM114.65 80.01l3.82.2-1.26 7.71 3.9-.6-.87 4.13-6.13-.43z" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"/>
+      <path d="M122.44 86.37l-3.65-3.68 3.09-2.52 2.12 3.1 1.75-3.86 4.12 1.41-4.32 5.55.33 4.36-3.78-.52zM134.7 91.02l-.5-10.85q10.58 0 10.58 5.43 0 5.42-10.08 5.42zm2.76-7.98l.52 3.76q3.36.01 3.36-1.87 0-1.89-3.88-1.89zM153.4 78.77l.2 4.11-4.82.52.06.94 3.16-.3.28 2.81-3.3.24.05.76 4.68-.36.7 3.53-9.23.32.94-11.19zM164.97 89.43q-1.84 1.6-4.43 1.6-2.6 0-4.44-1.6-1.84-1.59-1.84-3.83 0-2.25 1.84-3.84 1.84-1.6 4.44-1.6 2.6 0 4.43 1.6.92.8 1.39 1.77l-3.72.93q-.19-.5-.65-.9-.8-.68-1.9-.68-1.11 0-1.9.68-.8.69-.8 1.65t.8 1.64q.79.68 1.9.68 1.1 0 1.9-.68.42-.37.62-.84l3.74 1.65q-.46.97-1.38 1.77zM170.36 80.23l.79 10.46-4.39.83.2-11.02zM183.94 80.17l.65 10.22-3.95.34-.21-5.24-.8 3.6-3.55.5-1.44-3.72.51 4.4-3.62.75.5-10.85 3.56-.47 1.97 6.2 2.39-6.02zM188.59 89.47l-.54 1.55-3.06-1.84 3.83-9.01 2.92-.2 4.58 9.32-3.62 1.73-.8-2.18zm2.65-3.4l-.87-2.8-1.02 3.1zM197.25 80.01l3.82.2-1.26 7.71 3.9-.6-.87 4.13-6.13-.43z" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"/>
+      <path d="M205.9 86.73q-2.8-.4-2.48-3.48.33-3.08 7.2-3.65l.65 3.5q-3.4-.07-3.65.81-.25.89 2.6 1.02t2.8 3.47q-.07 3.34-7.52 3.57l-1.37-3.67q3.81.41 4.2-.38.37-.8-2.43-1.19z" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"/>
+    </g>
+    <g aria-label="by 1-digit" style="line-height:1.25;-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">
+      <path d="M96.78 100.31q2.4-.45 2.36-1.36-.05-.92-2.46-.29zm.38 4.6q3.5-.13 3.52-1.22.01-1.08-3.64-1.04zm-3.38 2.45l.3-10.04q5.53-2.26 7.61-.22 2.08 2.04-.53 4.11 3.96 1.22 2.55 3.98-1.4 2.75-9.93 2.17z" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"/>
+      <path d="M107.02 102.7l-3.65-3.68 3.08-2.52 2.12 3.1 1.76-3.85 4.11 1.4-4.32 5.56.33 4.35-3.77-.5zM125.74 107.25l-5.3-.23.89-7.32-1.83.73-.72-3.05 5.57-1.71zM133.68 99.86l-.6 3.92-7.07-.73-.35-2.67zM134.56 107.36l-.5-10.86q10.57 0 10.57 5.43t-10.07 5.43zm2.76-7.98l.52 3.75q3.35.02 3.35-1.87 0-1.88-3.87-1.88zM148.63 96.57l.8 10.45-4.4.83.2-11.01zM162.23 107.25l-4.41 1.11.08-1.22q-.86.22-1.82.22-2.6 0-4.43-1.6-1.84-1.58-1.84-3.83t1.84-3.84q1.84-1.59 4.43-1.59 2.6 0 4.44 1.6.92.8 1.38 1.76l-3.72.94q-.18-.5-.65-.9-.79-.68-1.9-.68-1.1 0-1.9.68-.79.68-.79 1.64 0 .96.8 1.65.78.68 1.9.68 1.1 0 1.9-.68.42-.38.65-.83l3.52-.15zM166.21 96.57l.8 10.45-4.4.83.2-11.01zM173.66 99.8l.38 6.61-4.2 1.09.72-7.9-3.17-.27.25-2.86 9.1-.55.33 4.24z" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"/>
+    </g>
+    <g aria-label="whole numbers" style="line-height:1.25;-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">
+      <path d="M72.04 118.6l-1.55 5.43-3.07.4-4.6-9.12 3.8-2.13 2.32 6.2 1.82-4.9 3.1.43 1.28 4.47 1.86-6.42 4.21 2.3-4.52 8.77-3.47-.74zM85.64 120.76l.28 2.62-2.97.52-1.35-8.59 3.3-1.4.38 3.71 2.97-.34.05-3.39 5.17.52-1.98 9.53-3.32-.98.04-2.48zM100.17 124.03q-2.62 0-4.48-1.59-1.84-1.58-1.84-3.83t1.84-3.84q1.86-1.59 4.48-1.59 2.6 0 4.45 1.6 1.86 1.58 1.86 3.83t-1.86 3.83q-1.84 1.6-4.45 1.6zm-.44-3.38q1.12 0 1.91-.69.8-.68.8-1.64 0-.96-.8-1.64-.8-.68-1.9-.68-1.13 0-1.93.68-.79.68-.79 1.64 0 .96.8 1.64.79.69 1.91.69zM107.4 113.03l3.83.2-1.26 7.7 3.9-.6-.87 4.13-6.13-.43zM122.47 111.79l.2 4.1-4.82.52.06.94 3.16-.3.28 2.81-3.3.24.05.76 4.69-.35.7 3.52-9.24.32.94-11.18zM131.68 118.6l.77 4.45-3.87.98-.78-10.17 3.88-.68 3.83 5.07.05-5.07 4.8-.5-1.7 11.35-3.08.45z" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"/>
+      <path d="M141.29 113.72l4.13.81q-2.06 6.33.59 6.4 3.15-.02 1.82-6.55l3.78-1.2q1.74 10.76-5.6 10.85-7.42-.07-4.72-10.3z" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"/>
+      <path d="M164.73 113.18l.65 10.23-3.95.33-.21-5.23-.8 3.6-3.55.49-1.44-3.71.52 4.4-3.62.74.5-10.85 3.55-.47 1.97 6.2 2.39-6.02zM168.78 116.99q2.4-.45 2.36-1.37-.05-.91-2.46-.28zm.38 4.6q3.5-.14 3.51-1.22.02-1.09-3.63-1.04zm-3.38 2.44l.29-10.03q5.54-2.26 7.62-.22 2.08 2.04-.53 4.1 3.96 1.22 2.55 3.98-1.4 2.76-9.93 2.17z" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"/>
+      <path d="M184.79 111.79l.2 4.1-4.82.52.06.94 3.16-.3.28 2.81-3.3.24.06.76 4.68-.35.7 3.52-9.24.32.94-11.18zM189.98 115.74l.11 2.1q3.88 0 3.88-.78t-3.99-1.32zm.52 7.67l-4.31.6.9-11.57q9.98.74 10.31 4 .34 3.25-3.43 4.5l3.1 1.68-3.18 2.8-3.64-4.49zM200.92 119.75q-2.8-.4-2.47-3.48.32-3.09 7.2-3.65l.64 3.5q-3.4-.08-3.65.8-.25.89 2.6 1.02 2.86.13 2.8 3.47-.07 3.34-7.51 3.57l-1.38-3.67q3.82.41 4.2-.38.38-.8-2.43-1.18z" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"/>
+    </g>
+  </g>
+  <g>
+    <g transform="matrix(.84812 0 0 .84812 -193.92 706.38)">
+      <g fill="#f57c00" transform="rotate(45 327.21 -723.68) scale(1.09493)">
+        <rect width="7.84" height="23.53" x="303.23" y="-746.43" ry="3.92"/>
+        <rect width="7.84" height="23.53" x="-738.58" y="-318.92" ry="3.92" transform="rotate(90)"/>
+      </g>
+      <rect width="2.21" height="6.35" x="-826.54" y="-267.47" fill="#ffd4a9" ry="1.1" transform="scale(-1 1) rotate(45)"/>
+    </g>
+    <g transform="rotate(90 -331.42 259.14) scale(.76982)">
+      <rect width="7.84" height="18.82" x="-712.05" y="-356.04" fill="#e91e63" ry="3.92"/>
+      <rect width="7.84" height="18.82" x="-701.07" y="-356.04" fill="#e91e63" ry="3.92"/>
+      <rect width="2.21" height="6.35" x="-710.76" y="-353.53" fill="#facedd" ry="1.1"/>
+      <rect width="2.21" height="6.35" x="-699.77" y="-353.53" fill="#facedd" ry="1.1"/>
+    </g>
+    <g fill="#fff" stroke="#303f9f" stroke-width="1.06" aria-label=".3" font-family="Funhouse" font-size="31.75" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" word-spacing="0">
+      <path d="M82.2 60.11q-5.23 0-8.94-3.17-3.69-3.18-3.69-7.68t3.7-7.67q3.7-3.18 8.94-3.18 5.22 0 8.91 3.18 3.7 3.18 3.7 7.67 0 4.5-3.7 7.68-3.69 3.17-8.91 3.17zm-.86-6.77q2.23 0 3.81-1.36 1.6-1.37 1.6-3.3 0-1.91-1.6-3.28-1.58-1.36-3.81-1.36-2.25 0-3.84 1.36-1.59 1.37-1.59 3.29t1.59 3.29q1.6 1.36 3.84 1.36zM97.23 60.11q-1.29 0-2.2-.9-.9-.9-.9-2.2 0-1.28.9-2.18.91-.92 2.2-.92t2.19.92q.91.9.91 2.18 0 1.3-.91 2.2-.9.9-2.19.9zM113.65 49.26q4.94.5 4.01 5.68-.91 5.17-15.22 6.48l-1.3-7.74q9.4.23 9.4-1.22 0-1.48-3.7-.84l-1.02-5.41q4.73-.05 4.68-1.88-.05-1.83-8.37.19l.9-6.53q13.32-.88 14.43 4.28 1.13 5.15-3.81 7z" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"/>
+    </g>
+    <g style="line-height:1.25;-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">
+      <path fill="#fff" stroke="#303f9f" stroke-width="1.06" d="M171.21 50.76q-5.6.77-4.62 3.74l8.18-.6 1.84 8.89-19.49-2.02q-.25-13.36 5.46-13.62 5.7-.27 5.2-2.03-.49-1.77-7.3-1.62l1.3-7q13.74 1.13 14.4 7.3.65 6.17-4.97 6.96z" aria-label="2" font-family="Funhouse" font-size="31.75" font-weight="400" letter-spacing="0" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" word-spacing="0"/>
+    </g>
+    <g>
+      <g transform="matrix(.84812 0 0 .84812 -190.11 674.8)">
+        <g fill="#f57c00" transform="rotate(45 327.21 -723.68) scale(1.09493)">
+          <rect width="7.84" height="23.53" x="303.23" y="-746.43" ry="3.92"/>
+          <rect width="7.84" height="23.53" x="-738.58" y="-318.92" ry="3.92" transform="rotate(90)"/>
+        </g>
+        <rect width="2.21" height="6.35" x="-826.54" y="-267.47" fill="#ffd4a9" ry="1.1" transform="scale(-1 1) rotate(45)"/>
+      </g>
+      <g fill="#fff" stroke="#303f9f" stroke-width="1.06" aria-label=".11" font-family="Funhouse" font-size="31.75" font-weight="400" letter-spacing="0" style="line-height:1.25;-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" word-spacing="0">
+        <path d="M78.4 29.85q-5.24 0-8.94-3.17-3.7-3.18-3.7-7.68t3.7-7.67q3.7-3.18 8.94-3.18 5.23 0 8.92 3.18 3.7 3.18 3.7 7.67 0 4.5-3.7 7.68-3.7 3.17-8.92 3.17zm-.87-6.77q2.24 0 3.82-1.36 1.6-1.37 1.6-3.3 0-1.91-1.6-3.28-1.58-1.36-3.82-1.36-2.24 0-3.84 1.36-1.58 1.37-1.58 3.29t1.58 3.29q1.6 1.36 3.84 1.36zM93.42 29.85q-1.28 0-2.2-.9-.9-.9-.9-2.2 0-1.28.9-2.18.92-.92 2.2-.92 1.3 0 2.19.92.92.9.92 2.18 0 1.3-.92 2.2-.9.9-2.19.9zM108.28 29.64l-10.6-.45 1.78-14.65L95.8 16l-1.45-6.1 11.15-3.43zM121.55 29.64l-10.6-.45 1.78-14.65-3.66 1.47-1.44-6.1 11.14-3.43z" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"/>
+      </g>
+      <g style="line-height:1.25;-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start">
+        <path fill="#fff" stroke="#303f9f" stroke-width="1.06" d="M169.11 6.25l-7.9 15.41 8.85 1.16-1.26 7.44 9.16-1.13-.26-5.25 3.36.35 1.26-6.79-4.8-.12V5.85zm-.85 10.43l1.78-4.23 1.84.19-.76 4.3z" aria-label="4" font-family="Funhouse" font-size="31.75" font-weight="400" letter-spacing="0" style="-inkscape-font-specification:'Funhouse, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start" word-spacing="0"/>
+      </g>
+      <g transform="rotate(90 -313.73 245.26) scale(.76982)">
+        <rect width="7.84" height="18.82" x="-712.05" y="-356.04" fill="#e91e63" ry="3.92"/>
+        <rect width="7.84" height="18.82" x="-701.07" y="-356.04" fill="#e91e63" ry="3.92"/>
+        <rect width="2.21" height="6.35" x="-710.76" y="-353.53" fill="#facedd" ry="1.1"/>
+        <rect width="2.21" height="6.35" x="-699.77" y="-353.53" fill="#facedd" ry="1.1"/>
+      </g>
+    </g>
+  </g>
+</svg>

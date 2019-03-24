@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264.58 87.31">
+  <g transform="matrix(.6816 0 0 .6816 -209.03 19.46)">
+    <g fill="#00c853">
+      <rect width="106.51" height="8.6" x="325.36" y="-3.57" ry="4.3"/>
+      <rect width="109.39" height="8.6" x="325.36" y="23.9" ry="4.3"/>
+      <rect width="109.39" height="8.6" x="325.36" y="51.36" ry="4.3"/>
+    </g>
+    <rect width="112.85" height="8.6" x="-27.96" y="-330.44" fill="#00ba4e" ry="4.3" transform="rotate(90)"/>
+    <g fill="#00af49">
+      <rect width="6.45" height="8.6" x="425.42" y="-3.57" ry="4.3"/>
+      <rect width="6.45" height="8.6" x="425.42" y="-3.57" ry="0"/>
+      <rect width="6.45" height="8.6" x="425.42" y="23.9" ry="0"/>
+      <rect width="6.45" height="8.6" x="425.42" y="51.36" ry="0"/>
+    </g>
+    <rect width="112.85" height="8.6" x="-27.96" y="-437.28" fill="#00c853" ry="4.3" transform="rotate(90)"/>
+    <rect width="2.22" height="58.88" x="433.63" y="-22.47" fill="#84ffb7" ry="1.05"/>
+    <rect width="6.45" height="8.6" x="404.37" y="-3.57" fill="#00ba4e" ry="0"/>
+    <rect width="14.23" height="29.08" x="407.38" y="-13.81" fill="#9c27b0" ry="7.11"/>
+    <rect width="2.77" height="10.47" x="416.43" y="-9.19" fill="#e9bcf0" ry="1.38"/>
+    <path fill="#872299" d="M414.5-13.8a7.1 7.1 0 0 0-7.12 7.1V8.16a7.1 7.1 0 0 0 8.56 6.97 7.1 7.1 0 0 1-5.68-6.97V-6.69a7.1 7.1 0 0 1 5.68-6.97 7.2 7.2 0 0 0-1.45-.15z"/>
+    <rect width="14.23" height="29.08" x="352.11" y="-13.81" fill="#9c27b0" ry="7.11"/>
+    <rect width="2.77" height="10.47" x="361.16" y="-9.19" fill="#e9bcf0" ry="1.38"/>
+    <path fill="#872299" d="M359.13-13.8A7.1 7.1 0 0 0 352-6.7V8.16a7.1 7.1 0 0 0 8.56 6.97 7.1 7.1 0 0 1-5.67-6.97V-6.69a7.1 7.1 0 0 1 5.67-6.97 7.2 7.2 0 0 0-1.44-.15z"/>
+    <rect width="6.45" height="8.6" x="334.39" y="-3.57" fill="#00ba4e" ry="0"/>
+    <rect width="14.23" height="29.08" x="337.88" y="-13.81" fill="#9c27b0" ry="7.11"/>
+    <rect width="2.77" height="10.47" x="346.93" y="-9.19" fill="#e9bcf0" ry="1.38"/>
+    <path fill="#872299" d="M345-13.8a7.1 7.1 0 0 0-7.12 7.1V8.16a7.1 7.1 0 0 0 8.56 6.97 7.1 7.1 0 0 1-5.67-6.97V-6.69a7.1 7.1 0 0 1 5.67-6.97 7.2 7.2 0 0 0-1.44-.15z"/>
+    <rect width="6.45" height="8.6" x="365.92" y="23.83" fill="#00ba4e" ry="0"/>
+    <g transform="translate(38.64 -100.22)">
+      <rect width="14.23" height="29.08" x="330.39" y="113.88" fill="#ef5365" ry="7.11"/>
+      <rect width="2.77" height="10.47" x="339.44" y="119.13" fill="#f8b9c0" ry="1.38"/>
+    </g>
+    <path fill="#ec374c" d="M376.14 13.66a7.1 7.1 0 0 0-7.11 7.11v14.85a7.1 7.1 0 0 0 8.55 6.97 7.1 7.1 0 0 1-5.67-6.97V20.77a7.1 7.1 0 0 1 5.67-6.96 7.2 7.2 0 0 0-1.44-.15z"/>
+    <rect width="6.45" height="8.6" x="384.09" y="23.83" fill="#00ba4e" ry="0"/>
+    <g transform="translate(56.9 -100.22)">
+      <rect width="14.23" height="29.08" x="330.39" y="113.88" fill="#ef5365" ry="7.11"/>
+      <rect width="2.77" height="10.47" x="339.44" y="119.13" fill="#f8b9c0" ry="1.38"/>
+    </g>
+    <path fill="#ec374c" d="M394.3 13.66a7.1 7.1 0 0 0-7.1 7.11v14.85a7.1 7.1 0 0 0 8.55 6.97 7.1 7.1 0 0 1-5.67-6.97V20.77a7.1 7.1 0 0 1 5.67-6.96 7.2 7.2 0 0 0-1.44-.15z"/>
+    <rect width="6.45" height="8.6" x="335.74" y="51.36" fill="#00ba4e" ry="0"/>
+    <g transform="translate(-13.84 -72.18)">
+      <rect width="14.23" height="29.08" x="352.3" y="113.31" fill="#f57c00" ry="7.11"/>
+      <rect width="2.77" height="10.47" x="361.06" y="119.13" fill="#ffce9d" ry="1.38"/>
+    </g>
+    <path fill="#db6f00" d="M345.57 41.13a7.1 7.1 0 0 0-7.11 7.11V63.1a7.1 7.1 0 0 0 8.56 6.97 7.1 7.1 0 0 1-5.68-6.97V48.24a7.1 7.1 0 0 1 5.68-6.97 7.2 7.2 0 0 0-1.45-.14z"/>
+    <rect width="6.45" height="8.6" x="406.77" y="51.36" fill="#00ba4e" ry="0"/>
+    <g transform="translate(57.67 -72.18)">
+      <rect width="14.23" height="29.08" x="352.3" y="113.31" fill="#f57c00" ry="7.11"/>
+      <rect width="2.77" height="10.47" x="361.06" y="119.13" fill="#ffce9d" ry="1.38"/>
+    </g>
+    <path fill="#db6f00" d="M417.09 41.13a7.1 7.1 0 0 0-7.12 7.11V63.1a7.1 7.1 0 0 0 8.56 6.97 7.1 7.1 0 0 1-5.67-6.97V48.24a7.1 7.1 0 0 1 5.67-6.97 7.2 7.2 0 0 0-1.44-.14z"/>
+    <rect width="145.77" height="18.6" x="312.5" y="80.34" fill="#2196f3" ry="5.83"/>
+    <path fill="#0c83e1" d="M311.64 80.34c-2.75 0-4.97 2.6-4.97 5.83v6.94c0 3.23 2.22 5.83 4.97 5.83h9.3c-2.75 0-4.97-2.6-4.97-5.83v-6.94c0-3.23 2.22-5.83 4.97-5.83z"/>
+    <rect width="45.3" height="6.27" x="408.56" y="83" fill="#66b7f7" ry="3.14"/>
+    <rect width="2.22" height="40.23" x="326.21" y="-22.47" fill="#00d65a" ry=".72"/>
+  </g>
+  <g fill="#fff" stroke="#00c853" stroke-width=".79">
+    <g aria-label="MATH" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">
+      <path d="M142.94 50.73l1.44 22.72-8.78.74-.47-11.63-1.77 8-7.9 1.1-3.2-8.25 1.16 9.78-8.05 1.66 1.1-24.12 7.91-1.05 4.38 13.78 5.3-13.37zM153.27 71.4l-1.2 3.45-6.8-4.1 8.52-20.02 6.47-.45L170.44 71l-8.04 3.85-1.77-4.84zm5.9-7.54l-1.94-6.24-2.27 6.89z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+      <path d="M179.95 58.07l.85 14.67-9.34 2.42 1.6-17.54-7.04-.6.55-6.38 20.2-1.2.75 9.42zM197.39 67.58l.62 5.82-6.6 1.15-3-19.08 7.34-3.14.83 8.27 6.61-.76.1-7.53 11.5 1.16-4.4 21.17-7.39-2.19.09-5.5z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+    </g>
+    <g aria-label="mental" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">
+      <path d="M142.91 15.13l1.45 22.72-8.79.74-.46-11.63-1.77 8-7.9 1.1-3.2-8.25 1.16 9.78-8.05 1.65 1.1-24.11 7.91-1.05 4.38 13.78 5.3-13.37zM163.51 12.03l.45 9.13-10.71 1.15.14 2.09 7.02-.66.62 6.24-7.33.53.12 1.69 10.4-.8 1.55 7.84-20.51.71 2.08-24.86zM175.24 27.19l1.71 9.87-8.6 2.18-1.74-22.61 8.63-1.5 8.51 11.26.1-11.26 10.69-1.1-3.8 25.21-6.83 1zM209.35 22.47l.85 14.67-9.34 2.41 1.6-17.53-7.04-.6.55-6.38 20.2-1.2.74 9.42zM221.46 35.8l-1.2 3.44-6.8-4.1 8.52-20.01 6.47-.45 10.18 20.72-8.04 3.84-1.77-4.84zm5.9-7.55l-1.94-6.23-2.27 6.89zM240.7 14.78l8.5.45-2.8 17.12 8.65-1.34-1.91 9.18-13.63-.95z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+    </g>
+  </g>
+</svg>

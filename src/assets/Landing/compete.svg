@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135.47 135.47">
+  <defs>
+    <linearGradient id="a" x1="161.32" x2="237.58" y1="47.82" y2="47.82" gradientTransform="matrix(.79443 0 0 .79443 -275.74 83)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00c853"/>
+      <stop offset="1" stop-color="#2196f3"/>
+    </linearGradient>
+  </defs>
+  <path fill="#ea2360" d="M38.54 47.86q-13.68 1.9-11.3 9.13l19.97-1.47 4.51 21.74L4.1 72.34q-.6-32.66 13.34-33.3 13.94-.65 12.72-4.97-1.2-4.31-17.84-3.94l3.18-17.12q33.57 2.77 35.16 17.84 1.6 15.08-12.12 17.01z" aria-label="2" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+  <path fill="url(#a)" d="M-86.79 121a30.4 30.4 0 0 1-30.2 30.4 30.4 30.4 0 0 1-30.59-30.02 30.4 30.4 0 0 1 29.82-30.77 30.4 30.4 0 0 1 30.96 29.61" transform="rotate(-120 -76.26 54.61) scale(1.46623)"/>
+  <g transform="translate(-168.18 -56.2) scale(1.46623)">
+    <g transform="translate(-46.85 79.99) scale(.44261)">
+      <g fill="#e11657">
+        <rect width="10.95" height="28.57" x="370.14" y="-360.21" ry="5.48" transform="rotate(46.35)"/>
+        <rect width="10.95" height="28.57" x="-361.5" y="406.78" ry="5.48" transform="scale(-1 1) rotate(46.35)"/>
+        <rect width="34.58" height="35.23" x="512.84" y="23.14" ry="2.76"/>
+      </g>
+      <g transform="translate(0 .9)">
+        <rect width="32.86" height="33.44" x="513.71" y="-15.77" ry="10.24"/>
+        <g fill="#ffc8a4" transform="matrix(.35376 0 0 .35376 1486.94 323.67)">
+          <circle cx="-2662.27" cy="-896.87" r="10.38"/>
+          <circle cx="-2747.11" cy="-896.87" r="10.38"/>
+        </g>
+        <rect width="30.02" height="42" x="515.1" y="-15.82" fill="#ffd3b4" ry="12.86"/>
+        <g fill="#333" transform="matrix(.35376 0 0 .35376 1487.92 326.09)">
+          <rect width="6.55" height="13.11" x="-2720.72" y="-910.52" ry="3.28"/>
+          <rect width="6.55" height="13.11" x="-2700.72" y="-910.52" ry="3.28"/>
+        </g>
+        <rect width="44.42" height="4.2" x="512.14" y="-2.98" fill="#2196f3" ry="1.48"/>
+        <path fill="#2196f3" d="M530.38-19.18a18.19 16.22 0 0 0-18.19 16.22 18.19 16.22 0 0 0 .04.87h36.28a18.19 16.22 0 0 0 .05-.87 18.19 16.22 0 0 0-18.18-16.22z"/>
+        <path d="M529.99-12.1a8.16 8.16 0 0 0-8.16 8.17 8.16 8.16 0 0 0 .06.95h16.2a8.16 8.16 0 0 0 .06-.95 8.16 8.16 0 0 0-8.16-8.16z"/>
+        <path d="M521.9-4.66v7.34l6.07-6.08V.7l6.35-6.35z"/>
+        <path fill="#1a1a1a" d="M523.04 10.54v2.3a6.6 6.6 0 0 0 6.62 6.62h.96a6.6 6.6 0 0 0 6.62-6.62v-2.3z"/>
+        <path fill="#fff" d="M523.73 10.54v1.13c0 .47.39.85.86.85h11.1c.48 0 .86-.38.86-.85v-1.13z"/>
+        <path fill="#faa" d="M529.66 15.25a6.6 6.6 0 0 0-4.85 2.1 6.6 6.6 0 0 0 4.85 2.11h.96a6.6 6.6 0 0 0 4.85-2.1 6.6 6.6 0 0 0-4.85-2.11z"/>
+      </g>
+      <rect width="1.89" height="4.66" x="517.99" y="62.81" fill="#ffbd92" ry=".94" transform="matrix(1.51449 0 0 1 -270.14 -31.46)"/>
+      <rect width="1.89" height="4.66" x="517.99" y="62.81" fill="#ffbd92" ry=".94" transform="matrix(1.51449 0 0 1 -242.08 -31.46)"/>
+      <rect width="10.95" height="14.27" x="11.04" y="-511.92" fill="#ec4077" ry="4.67" transform="matrix(-.01177 .99993 -.99889 -.0472 0 0)"/>
+      <rect width="10.95" height="14.27" x="61.09" y="548.65" fill="#ec4077" ry="4.67" transform="matrix(.01177 .99993 .99889 -.0472 0 0)"/>
+      <rect width="26.31" height="34.21" x="516.78" y="22.63" fill="#fff" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width=".23" ry="2.39"/>
+      <circle cx="529.93" cy="26.23" r="1.06" fill="#b3b3b3"/>
+      <g transform="rotate(90 .85 -.85)">
+        <rect width="10.38" height="8.38" x="36.84" y="-520.26" fill="#ffcead" ry="3.08"/>
+        <g fill="#ffcba9">
+          <rect width="2.62" height="7.7" x="42.09" y="-522.34" ry="1.47"/>
+          <rect width="2.62" height="6.54" x="39.46" y="-522.81" ry="1.25"/>
+          <rect width="2.62" height="5.92" x="36.84" y="-521.9" ry="1.44"/>
+          <rect width="2.62" height="7.7" x="44.6" y="-521.28" ry="1.47"/>
+        </g>
+        <rect width="4.79" height="6.96" x="39.64" y="-513.73" fill="#ffcead" ry="2.12"/>
+      </g>
+      <g transform="matrix(0 1 1 0 1060.54 -1.7)">
+        <rect width="10.38" height="8.38" x="36.84" y="-520.26" fill="#ffcead" ry="3.08"/>
+        <g fill="#ffcba9">
+          <rect width="2.62" height="7.7" x="42.09" y="-522.34" ry="1.47"/>
+          <rect width="2.62" height="6.54" x="39.46" y="-522.81" ry="1.25"/>
+          <rect width="2.62" height="5.92" x="36.84" y="-521.9" ry="1.44"/>
+          <rect width="2.62" height="7.7" x="44.6" y="-521.28" ry="1.47"/>
+        </g>
+        <rect width="4.79" height="6.96" x="39.64" y="-513.73" fill="#ffcead" ry="2.12"/>
+      </g>
+    </g>
+    <rect width=".94" height="2.73" x="72.99" y="200.99" fill="#f9c1d3" opacity=".68" ry=".47" transform="rotate(-45)"/>
+    <rect width=".94" height="2.73" x="-192.35" y="-64.34" fill="#f9c1d3" opacity=".68" ry=".47" transform="scale(-1 1) rotate(-45)"/>
+    <path fill="none" stroke="#d9edfd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.32" d="M188.1 73.27s3.88-.15 5.6 3.95" opacity=".46"/>
+  </g>
+  <g transform="matrix(1.4296 0 0 1.4296 -171.8 -57.8)">
+    <rect width="4.8" height="12.53" x="167.22" y="-45.77" fill="#00c853" ry="2.4" transform="rotate(46.35)"/>
+    <rect width="4.8" height="12.53" x="-46.23" y="178" fill="#00c853" ry="2.4" transform="scale(-1 1) rotate(46.35)"/>
+    <g transform="translate(-143.76 81.04) scale(.43872)">
+      <rect width="11.8" height="19.38" x="674.18" y="18.89" fill="#d99c74" ry="5.94"/>
+      <rect width="33.3" height="31.07" x="663.43" y="-10.24" fill="#351e0f" ry="9.52"/>
+      <g fill="#d99c74" transform="matrix(.35845 0 0 .35845 1649.56 330.89)">
+        <circle cx="-2662.27" cy="-896.87" r="10.38"/>
+        <circle cx="-2747.11" cy="-896.87" r="10.38"/>
+      </g>
+      <rect width="30.42" height="36.22" x="664.86" y="-8.18" fill="#deaa87" ry="13.1"/>
+      <g fill="#1a1a1a" transform="matrix(.35845 0 0 .35845 1650.55 333.08)">
+        <rect width="6.55" height="13.11" x="-2720.72" y="-910.52" ry="3.28"/>
+        <rect width="6.55" height="13.11" x="-2700.72" y="-910.52" ry="3.28"/>
+      </g>
+      <path fill="#1a1a1a" d="M672.5 12.35v5.7c0 3.23 3.38 5.82 7.58 5.82s7.57-2.6 7.57-5.82v-5.7z"/>
+      <path fill="#fff" d="M673.94 12.35l-.03.3v1.47c0 .78.62 1.4 1.4 1.4h9.53c.78 0 1.4-.62 1.4-1.4v-1.46c0-.1 0-.21-.03-.3z"/>
+      <path fill="#351e0f" d="M679.84-18.75a6.14 6.14 0 0 0-5.43 3.29 6.14 6.14 0 0 0-3.14-.88 6.14 6.14 0 0 0-6.14 6.14 6.14 6.14 0 0 0 .07.87 8.03 8.03 0 0 0-3.82 6.83 8.03 8.03 0 0 0 8.03 8.03 8.03 8.03 0 0 0 5.28-2 8.68 8.68 0 0 0 4.71 1.4 8.68 8.68 0 0 0 5.32-1.83 7.56 7.56 0 0 0 5.8 2.72 7.56 7.56 0 0 0 7.57-7.56 7.56 7.56 0 0 0-2.58-5.68 6.49 6.49 0 0 0 .4-2.25 6.49 6.49 0 0 0-6.48-6.49 6.49 6.49 0 0 0-3.88 1.3 6.14 6.14 0 0 0-5.7-3.89z"/>
+      <path fill="#faa" d="M680.08 19.27c-2.3 0-4.34 1-5.72 2.6a8.66 8.66 0 0 0 5.72 2c2.28 0 4.33-.77 5.72-2a7.55 7.55 0 0 0-5.72-2.6z"/>
+    </g>
+    <rect width="15.17" height="15.46" x="147.1" y="91.14" fill="#00c853" ry="1.21"/>
+    <rect width="1.89" height="4.66" x="517.99" y="62.81" fill="#d99c74" ry=".94" transform="matrix(.66444 0 0 .43872 -196.4 67.18)"/>
+    <rect width="1.89" height="4.66" x="517.99" y="62.81" fill="#d99c74" ry=".94" transform="matrix(.66444 0 0 .43872 -184.1 67.18)"/>
+    <rect width="4.8" height="6.26" x="89.47" y="-147.61" fill="#00d95a" ry="2.05" transform="matrix(-.01177 .99993 -.99889 -.0472 0 0)"/>
+    <rect width="4.8" height="6.26" x="104.07" y="161.82" fill="#00d95a" ry="2.05" transform="matrix(.01177 .99993 .99889 -.0472 0 0)"/>
+    <g transform="translate(-77.9 80.78) scale(.43872)">
+      <rect width="26.31" height="34.21" x="516.78" y="22.63" fill="#fff" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width=".23" ry="2.39"/>
+      <circle cx="529.93" cy="26.23" r="1.06" fill="#b3b3b3"/>
+    </g>
+    <g fill="#deaa87" transform="matrix(0 .43872 .43872 0 387.39 80.24)">
+      <rect width="10.38" height="8.38" x="36.84" y="-520.26" ry="3.08"/>
+      <rect width="2.62" height="7.7" x="42.09" y="-522.34" ry="1.47"/>
+      <rect width="2.62" height="6.54" x="39.46" y="-522.81" ry="1.25"/>
+      <rect width="2.62" height="5.92" x="36.84" y="-521.9" ry="1.44"/>
+      <rect width="2.62" height="7.7" x="44.6" y="-521.28" ry="1.47"/>
+      <rect width="4.79" height="6.96" x="39.64" y="-513.73" ry="2.12"/>
+    </g>
+    <g fill="#deaa87" transform="rotate(90 -79.07 1.18) scale(.43872)">
+      <rect width="10.38" height="8.38" x="36.84" y="-520.26" ry="3.08"/>
+      <rect width="2.62" height="7.7" x="42.09" y="-522.34" ry="1.47"/>
+      <rect width="2.62" height="6.54" x="39.46" y="-522.81" ry="1.25"/>
+      <rect width="2.62" height="5.92" x="36.84" y="-521.9" ry="1.44"/>
+      <rect width="2.62" height="7.7" x="44.6" y="-521.28" ry="1.47"/>
+      <rect width="4.79" height="6.96" x="39.64" y="-513.73" ry="2.12"/>
+    </g>
+    <rect width=".94" height="2.73" x="49.01" y="178.2" fill="#94ffc0" opacity=".68" ry=".47" transform="rotate(-45)"/>
+    <rect width=".94" height="2.73" x="-169.63" y="-40.44" fill="#94ffc0" opacity=".68" ry=".47" transform="scale(-1 1) rotate(-45)"/>
+    <g fill="#784422">
+      <ellipse cx="93.51" cy="150.09" opacity=".46" rx=".93" ry="1.16" transform="rotate(-32.54)"/>
+      <ellipse cx="-143.92" cy="106.44" opacity=".46" rx="1.29" ry="1.6" transform="rotate(243.1)"/>
+      <ellipse cx="-68.94" cy="161.26" opacity=".46" rx=".6" ry=".63" transform="matrix(.04142 -.99914 .99841 .05636 0 0)"/>
+    </g>
+  </g>
+  <g fill="#ffc107">
+    <path d="M73.16 60.84c-.65 0-1.16.52-1.16 1.16v.82h-.82a1.16 1.16 0 1 0 0 2.32H72v.82a1.16 1.16 0 1 0 2.32 0v-.82h.82a1.16 1.16 0 1 0 0-2.32h-.82V62c0-.64-.52-1.16-1.16-1.16zM95.26 41.55c-.64 0-1.16.52-1.16 1.16v.82h-.81a1.16 1.16 0 1 0 0 2.32h.81v.82a1.16 1.16 0 1 0 2.32 0v-.82h.82a1.16 1.16 0 1 0 0-2.32h-.82v-.82c0-.64-.51-1.16-1.16-1.16zM58.76 34.06a.95.95 0 0 0-.95.96v.67h-.68a.95.95 0 1 0 0 1.91h.68v.68a.95.95 0 1 0 1.9 0v-.68h.68a.95.95 0 1 0 0-1.9h-.67v-.68a.95.95 0 0 0-.96-.96zM30.76 63.36a.95.95 0 0 0-.96.95V65h-.67a.95.95 0 1 0 0 1.9h.67v.68a.95.95 0 1 0 1.91 0v-.67h.68a.95.95 0 1 0 0-1.91h-.68v-.68a.95.95 0 0 0-.95-.95zM128.8 65.92a.95.95 0 0 0-.95.96v.67h-.67a.95.95 0 1 0 0 1.91h.67v.68a.95.95 0 1 0 1.91 0v-.68h.68a.95.95 0 1 0 0-1.9h-.68v-.68a.95.95 0 0 0-.95-.96zM84.36 20.9a.95.95 0 0 0-.96.96v.68h-.67a.95.95 0 1 0 0 1.91h.67v.67a.95.95 0 1 0 1.91 0v-.67H86a.95.95 0 1 0 0-1.91h-.68v-.68a.95.95 0 0 0-.95-.95z"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" transform="translate(-161.68 15.88) scale(1.46623)">
+    <circle cx="163.53" cy="20.17" r="1.24" stroke="#e11657" stroke-width=".95"/>
+    <circle cx="179.28" cy="9.24" r="1.24" stroke="#00c853" stroke-width=".95"/>
+    <circle cx="191.56" cy="16.68" r=".96" stroke="#9c27b0" stroke-width=".74"/>
+    <circle cx="132.89" cy="17.49" r="1.24" stroke="#9c27b0" stroke-width=".95"/>
+    <circle cx="157.29" cy="6.68" r="1.1" stroke="#2196f3" stroke-width=".85"/>
+  </g>
+  <g transform="translate(-98.28 -34.69) scale(1.46623)">
+    <g transform="matrix(.46079 0 0 .46079 -215.97 79.78)">
+      <rect width="31.61" height="55.97" x="715.62" y="-12.97" fill="#ffc107" ry="13.84"/>
+      <rect width="11.2" height="18.83" x="725.83" y="19.65" fill="#ffd8be" ry="5.77"/>
+      <g fill="#ffdbc2" transform="matrix(.34028 0 0 .34028 1651.8 313.22)">
+        <circle cx="-2662.27" cy="-896.87" r="10.38"/>
+        <circle cx="-2747.11" cy="-896.87" r="10.38"/>
+      </g>
+      <circle cx="746.78" cy="11.54" r="1.38" fill="#9c27b0"/>
+      <circle cx="716.26" cy="11.54" r="1.38" fill="#9c27b0"/>
+      <rect width="28.88" height="40.09" x="716.99" y="-13.29" fill="#ffe6d5" ry="12.28"/>
+      <g fill="#333" transform="matrix(.34028 0 0 .34028 1652.73 316.72)">
+        <rect width="6.55" height="13.11" x="-2720.72" y="-910.52" ry="3.28"/>
+        <rect width="6.55" height="13.11" x="-2700.72" y="-910.52" ry="3.28"/>
+      </g>
+      <path fill="#ffc107" d="M730.37-13.96c-8.1 0-14.62 6.96-14.62 15.62v.05h31.36v-.05c0-8.66-6.52-15.62-14.62-15.62z"/>
+      <path fill="#1a1a1a" d="M724.6 12.42v2.21a6.35 6.35 0 0 0 6.37 6.37h.92a6.35 6.35 0 0 0 6.37-6.37v-2.21z"/>
+      <path fill="#faa" d="M730.97 17.56c-1.69 0-3.22.66-4.36 1.73a6.35 6.35 0 0 0 4.36 1.71h.92c1.7 0 3.22-.65 4.36-1.71a6.34 6.34 0 0 0-4.36-1.73z"/>
+      <path fill="#fff" d="M724.6 12.42v1.92h13.66v-1.92z"/>
+      <path fill="none" stroke="#9c27b0" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.72" d="M730.56-10.87c-6.69 0-12.07 5.57-12.07 12.48v.05h25.88V1.6c0-6.91-5.38-12.48-12.06-12.48z"/>
+      <path fill="#ffc107" d="M717.07.08c-.38 0-.72.22-.96.58 1.03 1.5 5.05 5.35 19.22 5.74h4.8c1.72-.04 3.55-.12 5.52-.26l.88-.06c.36-.34.6-.93.6-1.6V2c0-1.07-.6-1.92-1.33-1.92z"/>
+    </g>
+    <g fill="#9c27b0">
+      <rect width="15.94" height="16.23" x="113.19" y="90.94" ry="1.27"/>
+      <rect width="5.05" height="13.16" x="143.66" y="-21.48" ry="2.52" transform="rotate(46.35)"/>
+      <rect width="5.05" height="13.16" x="-23.51" y="153.76" ry="2.52" transform="scale(-1 1) rotate(46.35)"/>
+    </g>
+    <rect width="1.89" height="4.66" x="517.99" y="62.81" fill="#ffcfad" ry=".94" transform="matrix(.60436 -.34893 .2304 .39906 -201.35 251.26)"/>
+    <rect width="5.04" height="6.58" x="91.14" y="-113.65" fill="#ba31d1" ry="2.15" transform="matrix(-.01177 .99993 -.99889 -.0472 0 0)"/>
+    <rect width="5.04" height="6.58" x="102.57" y="128.68" fill="#ba31d1" ry="2.15" transform="matrix(.01177 .99993 .99889 -.0472 0 0)"/>
+    <rect width="1.89" height="4.66" x="517.99" y="62.81" fill="#ffcfad" ry=".94" transform="matrix(-.60436 -.34893 -.2304 .39906 443.57 251.26)"/>
+    <g transform="translate(0 -2.1)">
+      <rect width="12.12" height="15.76" x="115.01" y="90.71" fill="#f9f9f9" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width=".11" ry="1.1"/>
+      <circle cx="121.07" cy="92.36" r=".49" fill="#b3b3b3"/>
+    </g>
+    <rect width=".94" height="2.73" x="25.55" y="154.38" fill="#f2d9f7" opacity=".31" ry=".47" transform="rotate(-45)"/>
+    <rect width=".94" height="2.73" x="-145.73" y="-16.76" fill="#f2d9f7" opacity=".31" ry=".47" transform="scale(-1 1) rotate(-45)"/>
+    <path fill="none" stroke="#ffeeb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.06" d="M122.16 76.9s3.14.46 3.1 4.37" opacity=".61"/>
+    <g transform="matrix(0 1 1 0 0 0)">
+      <rect width="2.21" height="3.21" x="97.76" y="128.84" fill="#ffcfad" ry=".98"/>
+      <g fill="#ffdcc5">
+        <rect width="4.78" height="3.86" x="96.47" y="125.83" ry="1.42"/>
+        <rect width="1.21" height="3.55" x="98.89" y="124.87" ry=".68"/>
+        <rect width="1.21" height="3.01" x="97.68" y="124.66" ry=".57"/>
+        <rect width="1.21" height="2.73" x="96.47" y="125.08" ry=".67"/>
+        <rect width="1.21" height="3.55" x="100.05" y="125.37" ry=".68"/>
+      </g>
+    </g>
+    <g transform="rotate(90)">
+      <rect width="2.21" height="3.21" x="97.76" y="-113.6" fill="#ffcfad" ry=".98"/>
+      <g fill="#ffdcc5">
+        <rect width="4.78" height="3.86" x="96.47" y="-116.61" ry="1.42"/>
+        <rect width="1.21" height="3.55" x="98.89" y="-117.57" ry=".68"/>
+        <rect width="1.21" height="3.01" x="97.68" y="-117.79" ry=".57"/>
+        <rect width="1.21" height="2.73" x="96.47" y="-117.37" ry=".67"/>
+        <rect width="1.21" height="3.55" x="100.05" y="-117.08" ry=".68"/>
+      </g>
+    </g>
+    <ellipse cx="128.43" cy="84.98" fill="#ecc6f2" opacity=".61" rx=".16" ry=".25"/>
+    <ellipse cx="113.83" cy="84.98" fill="#ecc6f2" opacity=".61" rx=".16" ry=".25"/>
+  </g>
+  <text x="97.92" y="-217.78" stroke-width=".26" font-family="sans-serif" font-size="10.58" letter-spacing="0" style="line-height:1.25" transform="translate(-547.38 41.4)" word-spacing="0"/>
+</svg>

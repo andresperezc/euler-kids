@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64.88 64.88">
+  <g transform="translate(-172 6.3) scale(1.40359)">
+    <rect width="34.84" height="41.18" x="128.23" y=".37" fill="#9c27b0" ry="16.93"/>
+    <rect width="23.96" height="5.16" x="134.35" y="8.59" fill="#4f145a" ry="2.58"/>
+    <g transform="translate(.08)">
+      <rect width="9.1" height="11.52" x="131.01" y="-4.3" fill="#9c27b0" ry="3.94"/>
+      <rect width="4.31" height="5.46" x="133.41" y="-1.27" fill="#4f145a" ry="1.87"/>
+      <rect width="9.1" height="11.52" x="151.03" y="-4.3" fill="#9c27b0" ry="3.94"/>
+      <rect width="4.31" height="5.46" x="153.43" y="-1.27" fill="#4f145a" ry="1.87"/>
+    </g>
+    <path fill="#4f145a" d="M134.39 11.58a2.57 2.57 0 0 0 2.54 3l18.8-.01a2.57 2.57 0 0 0 2.54-3 2.57 2.57 0 0 1-2.54 2.17h-18.8a2.57 2.57 0 0 1-2.54-2.16z" opacity=".62"/>
+    <g transform="translate(.03)">
+      <rect width="1.86" height="5.2" x="143.1" y="14.14" ry=".93"/>
+      <rect width="1.86" height="5.2" x="146.29" y="14.14" ry=".93"/>
+      <circle cx="147.43" cy="15.29" r=".49" fill="#fff"/>
+      <circle cx="144.17" cy="15.29" r=".49" fill="#fff"/>
+    </g>
+    <path d="M131.92 22.32a13.7 13.7 0 0 0 13.73 13.56 13.7 13.7 0 0 0 13.74-13.56h-27.46-.01z"/>
+    <path fill="#f60" d="M145.7 31.46c-2.78 0-5.35.81-7.5 2.21a13.7 13.7 0 0 0 7.5 2.21c2.76 0 5.33-.81 7.48-2.21a13.7 13.7 0 0 0-7.49-2.21z"/>
+    <path fill="#fff" d="M139 22.32v5.2c0 1.23 1 2.23 2.24 2.23h1.48c1.24 0 2.23-1 2.23-2.23v-5.2z"/>
+    <path fill="#999" d="M139 22.32v1.61h5.95v-1.61z" opacity=".44"/>
+    <path fill="#fff" d="M146.44 22.32v5.2c0 1.23 1 2.23 2.23 2.23h1.49c1.23 0 2.23-1 2.23-2.23v-5.2z"/>
+    <path fill="#999" d="M146.44 22.32v1.61h5.95v-1.61z" opacity=".44"/>
+    <path fill="#6c1b7a" d="M128.23 22.4v2.23c0 9.38 7.55 16.92 16.93 16.92h.99c9.38 0 16.92-7.54 16.92-16.92V22.4c0 9.37-7.54 16.92-16.92 16.92h-1a16.89 16.89 0 0 1-16.92-16.92z" opacity=".46"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="#ffc6a0" stroke-width="1.09" d="M146.13 32.6s2.12-.07 3.84.88"/>
+      <path stroke="#de9ee9" stroke-width="1.32" d="M156.14-2.9s2.95 0 2.88 3.37M135.92-2.9s2.95 0 2.88 3.37"/>
+    </g>
+    <rect width="6.2" height="1.41" x="150.28" y="9.37" fill="#d176e1" opacity=".69" ry=".71"/>
+    <rect width="3.04" height="1.41" x="146.36" y="9.37" fill="#d176e1" opacity=".69" ry=".71"/>
+  </g>
+</svg>

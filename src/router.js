@@ -1,25 +1,59 @@
-import Vue from 'vue'
-import Router from 'vue-router'
-import Home from './views/Home.vue'
+import Vue from "vue";
+import Router from "vue-router";
+import Home from "./views/Home.vue";
+const Create = () => import("./views/Create");
+const Play = () => import("./views/Play");
+const Lobby = () => import("./views/Lobby");
+const Action = () => import("./views/Action");
+const Help = () => import("./views/Help/Help");
+const Privacy = () => import("./views/Privacy/Privacy");
+const Terms = () => import("./views/Terms/Terms");
 
-Vue.use(Router)
+Vue.use(Router);
 
 export default new Router({
-  mode: 'history',
+  mode: "history",
   base: process.env.BASE_URL,
   routes: [
     {
-      path: '/',
-      name: 'home',
+      path: "/",
+      name: "home",
       component: Home
     },
     {
-      path: '/about',
-      name: 'about',
-      // route level code-splitting
-      // this generates a separate chunk (about.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "about" */ './views/About.vue')
+      path: "/create",
+      name: "create",
+      component: Create
+    },
+    {
+      path: "/play",
+      name: "play",
+      component: Play
+    },
+    {
+      path: "/lobby/:code",
+      name: "lobby",
+      component: Lobby
+    },
+    {
+      path: "/action/:code",
+      name: "action",
+      component: Action
+    },
+    {
+      path: "/help",
+      name: "help",
+      component: Help
+    },
+    {
+      path: "/privacy-policy",
+      name: "privacyPolicy",
+      component: Privacy
+    },
+    {
+      path: "/terms-of-service",
+      name: "termsOfService",
+      component: Terms
     }
   ]
-})
+});
