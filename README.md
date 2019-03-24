@@ -37,7 +37,7 @@ npm run serve
 
 ### License
 
-Copyright © 2018 eulerkids.com
+Copyright © 2019 eulerkids.com
 
 The content of this repository bound by the following licenses:
 
