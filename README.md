@@ -1,6 +1,6 @@
 # [EulerKids](https://www.eulerkids.com)
 
-![alt text](https://raw.githubusercontent.com/andresperezc/EulerKids/master/static/CoverGithub/ekCoverGit.png?token=AQdMHgmd-cF4zOvRh9HE28hXkxNJrg-gks5b2K4GwA%3D%3D)
+![alt text](https://raw.githubusercontent.com/andresperezc/euler-kids/master/cover/ekCoverGit.png)
 
 EuleKids is the dream to make educational technology a universal right.
  
